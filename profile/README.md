@@ -1,9 +1,11 @@
-# ORPIS | 올피스
-**O**bjective **R**ole**P**lay **I**ntegrated **S**ystem
+# 초록은하 GREEN UNIVERSE
+## Projects
+### - Guniv RP
+> 1. **목적**: 로블록스에서 이용가능한 게임용 API 및 클라이언트 라이브러리 개발
+ 
+> 2. **갈래**: 역할놀이(roleplay), 모의체험(simulation), 1인칭 총격놀이(fps)
 
-1. 목적
-> 로블록스에서 이용가능한 게임용 API 및 클라이언트 라이브러리 개발
-2. 갈래
-> 역할놀이(roleplay), 모의체험(simulation), 1인칭 총격놀이(fps)
-3. 포부
-> 유연하고 자유도 높은 놀이 실현을 위한 환경 제공
+> 3. **포부**: 유연하고 자유도 높은 놀이 실현을 위한 환경 제공
+### - Destroy Mini City
+> 로블록스 스튜디오로 개발 중인 소형 도시 파괴 시뮬레이터
+> - **갈래**: 모험, 군, 모의체험
